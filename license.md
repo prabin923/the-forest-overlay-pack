@@ -207,6 +207,6 @@ matches and a separate one for private testing.
 
 > 🧭 **Editor's note:** everything above is tested on the current 2026 build. If a step looks different on your machine, open an issue.
 
-*the-forest-overlay-pack · Updated 2026-10-27 · Shared under the MIT License*
+*the-forest-overlay-pack · Updated 2026-10-28 · Shared under the MIT License*
 
-<!-- updated 2026-10-27 -->
+<!-- updated 2026-10-28 -->
